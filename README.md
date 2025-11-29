@@ -1,16 +1,5 @@
 # kelimemayinlari
 
-A new Flutter project.
+Scrabble-like multiplayer word game with additional features
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="720" height="1280" alt="Screenshot_2025 11 29_14 34 03 080" src="https://github.com/user-attachments/assets/168ce570-85da-4a19-9a34-cfffbddc4aec" />
