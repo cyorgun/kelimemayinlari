@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751566016962",
+    "project_id": "kelime-mayinlari",
+    "storage_bucket": "kelime-mayinlari.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751566016962:android:595f720374b758ec7a865b",
+        "android_client_info": {
+          "package_name": "com.odev.kelimemayinlari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-kyysWLNrovlzvcRdi7jqjxHJTjQdRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
